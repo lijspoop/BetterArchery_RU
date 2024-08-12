@@ -2,7 +2,7 @@
   "name": "BetterArchery_RU",
   "version_number": "1.0.1",
   "author": "lijspoop",
-  "website_url": "",
+  "website_url": "https://github.com/lijspoop/BetterArchery_RU",
   "description": "Перевод мода BetterArchery на Русский.",
   "dependencies": [
     "ASharpPen-This_Goes_Here-2.1.1",
