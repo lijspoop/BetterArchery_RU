@@ -4,4 +4,4 @@
 > Внимание! Эта модификация автоматически перезаписывает файл `ishid4_translations.json` оригинальной модификации в папке `BepInEx\plugins\ishid4-BetterArchery`.
 
 #
-<a href="https://discord.gg/TB4rQwNPUh"><img src="https://cdn.discordapp.com/icons/780261305982386176/8c90b1e54638431adbb74d55d6c97348.webp" title="Discord сервер" width="64" height="64"></a>
+<a href="https://discord.gg/TB4rQwNPUh"><img src="https://i.imgur.com/o90tywm.jpg" title="Discord сервер"></a>
