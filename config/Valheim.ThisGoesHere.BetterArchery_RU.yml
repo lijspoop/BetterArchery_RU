@@ -1,0 +1,4 @@
+PrintComment: Translated [ishid4-BetterArchery]
+CopyFile:
+- From: plugins/lijspoop-BetterArchery_RU/ishid4_translations.json
+  To: plugins/ishid4-BetterArchery/ishid4_translations.json

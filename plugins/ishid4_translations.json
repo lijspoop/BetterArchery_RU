@@ -1,0 +1,15 @@
+{
+  "mod_betterarchery_test": "Загружен",
+  "mod_betterarchery_tombstone_space_error": "Недостаточно места в инвентаре, выброшенные предметы:",
+
+  "mod_betterarchery_quiver_equipped_error": "Вы не можете бросить колчан, пока он экипирован.",
+  "mod_betterarchery_quiver_wrong_item_error": "Вы не можете положить это внутрь колчана.",
+  "mod_betterarchery_quiver_transfer_chest_error": "Снимите предмет.",
+  "mod_betterarchery_quiver_item_swap_error": "Не удается поменять этот предмет местами.",
+  "mod_betterarchery_quiver_swap_chest_error": "Снимите предмет перед его перемещением.",
+  "mod_betterarchery_quiver_drop_outside_error": "Сначала снимите колчан.",
+  "mod_betterarchery_quiver_unequip_error": "Сначала опустошите колчан.",
+
+  "mod_betterarchery_leather_quiver_name": "Кожаный колчан",
+  "mod_betterarchery_leather_quiver_description": "Держатель для стрел изготовлен из кожи. В нем есть 3 дополнительных прорези для ваших прекрасных стрел."
+}
